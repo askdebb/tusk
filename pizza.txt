@@ -7,3 +7,7 @@ Recipe from Navin Reddy
 2. Select the pizza.
 3. Order
 
+
+#Cancel Order
+1. Click on the cancel button to close the order interface.
+
